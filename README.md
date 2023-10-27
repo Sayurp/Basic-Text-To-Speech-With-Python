@@ -4,7 +4,7 @@ This simple project uses the `pyttsx3` library to convert written text to audio 
 
 ## Project Contents
 
-- **audio/**: Directory that will store the audio file generated from the text.
+- **audio/**: Directory that will store the audio file generated from the text (If the folder is not created automatically, create it manually with the same name.).
 - **1_available_voices.py**: Find the Path of the voices available on your device.
 - **2_text_to_voice.py**: Main script that converts text to speech.
 - **3_type_your_text_here.txt**: File where you can write or paste texts so that they are later converted to audio in .mp3 format.
